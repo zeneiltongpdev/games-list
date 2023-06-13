@@ -1,1 +1,1 @@
-echo "# Games-List_Java-Spring-Project" >> README.md
+# Games List with Java Spring Project
