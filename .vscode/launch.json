@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-DslistApplication<dslist>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.javadslist.dslist.DslistApplication",
+      "projectName": "dslist",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
