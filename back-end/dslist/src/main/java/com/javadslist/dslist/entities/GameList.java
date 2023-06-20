@@ -65,5 +65,4 @@ public class GameList {
         return true;
     }
 
-
 }
