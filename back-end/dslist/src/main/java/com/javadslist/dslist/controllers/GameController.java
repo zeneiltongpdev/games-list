@@ -18,7 +18,6 @@ public class GameController {
     private GameService gameService;
 
     @GetMapping
-    //Getmapping will map the list and all games and return everyone who finds
     public List<GameMinDTO> findAll() {
         List<GameMinDTO> result = gameService.findAll();
         return result;
